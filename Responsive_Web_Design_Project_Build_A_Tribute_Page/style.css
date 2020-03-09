@@ -1,0 +1,13 @@
+h1 {
+  text-align:center;
+}
+
+#image{
+  display:block;
+  max-width:100%;
+  margin:auto;
+}
+
+#img-caption{
+  text-align:center;
+}
